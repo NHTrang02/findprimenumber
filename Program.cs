@@ -19,9 +19,7 @@ namespace New_folder
                 primes[i] = GetPrimeNumbers(i==0 ? 2 :i *min+1, (parts-i) *max, i+1);
             }
             var results = await Task.WhenAll(primes);
-            // var primeNumbers= await GetPrimeNumbers(min,max);
-            // Console.WriteLine($"Total prime numbers: {primeNumbers.Count}");
-            // Console.WriteLine($"ElapsedMilliseconds: {sw.ElapsedMilliseconds}");
+            
 
         }
         static async Task<List<int>> GetPrimeNumbers(int min, int max, int index)
