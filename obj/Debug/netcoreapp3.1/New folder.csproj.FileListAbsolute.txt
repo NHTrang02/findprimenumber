@@ -1,0 +1,13 @@
+D:\nashtech\New folder\bin\Debug\netcoreapp3.1\New folder.exe
+D:\nashtech\New folder\bin\Debug\netcoreapp3.1\New folder.deps.json
+D:\nashtech\New folder\bin\Debug\netcoreapp3.1\New folder.runtimeconfig.json
+D:\nashtech\New folder\bin\Debug\netcoreapp3.1\New folder.runtimeconfig.dev.json
+D:\nashtech\New folder\bin\Debug\netcoreapp3.1\New folder.dll
+D:\nashtech\New folder\bin\Debug\netcoreapp3.1\New folder.pdb
+D:\nashtech\New folder\obj\Debug\netcoreapp3.1\New folder.csprojAssemblyReference.cache
+D:\nashtech\New folder\obj\Debug\netcoreapp3.1\New folder.AssemblyInfoInputs.cache
+D:\nashtech\New folder\obj\Debug\netcoreapp3.1\New folder.AssemblyInfo.cs
+D:\nashtech\New folder\obj\Debug\netcoreapp3.1\New folder.csproj.CoreCompileInputs.cache
+D:\nashtech\New folder\obj\Debug\netcoreapp3.1\New folder.dll
+D:\nashtech\New folder\obj\Debug\netcoreapp3.1\New folder.pdb
+D:\nashtech\New folder\obj\Debug\netcoreapp3.1\New folder.genruntimeconfig.cache
